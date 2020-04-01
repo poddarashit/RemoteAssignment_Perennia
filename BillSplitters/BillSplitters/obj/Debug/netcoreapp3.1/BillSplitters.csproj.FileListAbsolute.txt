@@ -1,0 +1,13 @@
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\bin\Debug\netcoreapp3.1\BillSplitters.exe
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\bin\Debug\netcoreapp3.1\BillSplitters.deps.json
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\bin\Debug\netcoreapp3.1\BillSplitters.runtimeconfig.json
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\bin\Debug\netcoreapp3.1\BillSplitters.runtimeconfig.dev.json
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\bin\Debug\netcoreapp3.1\BillSplitters.dll
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\bin\Debug\netcoreapp3.1\BillSplitters.pdb
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\obj\Debug\netcoreapp3.1\BillSplitters.csproj.CoreCompileInputs.cache
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\obj\Debug\netcoreapp3.1\BillSplitters.AssemblyInfoInputs.cache
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\obj\Debug\netcoreapp3.1\BillSplitters.AssemblyInfo.cs
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\obj\Debug\netcoreapp3.1\BillSplitters.dll
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\obj\Debug\netcoreapp3.1\BillSplitters.pdb
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\obj\Debug\netcoreapp3.1\BillSplitters.genruntimeconfig.cache
+C:\Users\Ashit\source\repos\BillSplitters\BillSplitters\obj\Debug\netcoreapp3.1\BillSplitters.csprojAssemblyReference.cache

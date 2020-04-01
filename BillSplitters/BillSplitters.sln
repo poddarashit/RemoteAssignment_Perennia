@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillSplitters", "BillSplitters\BillSplitters.csproj", "{390DE316-CE9D-4A8A-97D4-B07ADF051AD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillSplittersUnitTest", "BillSplittersUnitTest\BillSplittersUnitTest.csproj", "{7DCD15ED-1C70-4374-B1E8-2414527916D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390DE316-CE9D-4A8A-97D4-B07ADF051AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390DE316-CE9D-4A8A-97D4-B07ADF051AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390DE316-CE9D-4A8A-97D4-B07ADF051AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390DE316-CE9D-4A8A-97D4-B07ADF051AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCD15ED-1C70-4374-B1E8-2414527916D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCD15ED-1C70-4374-B1E8-2414527916D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCD15ED-1C70-4374-B1E8-2414527916D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCD15ED-1C70-4374-B1E8-2414527916D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D15FC495-8691-4B64-93EA-0065C64A73AA}
+	EndGlobalSection
+EndGlobal

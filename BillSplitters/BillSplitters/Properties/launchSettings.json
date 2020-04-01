@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BillSplitters": {
+      "commandName": "Project",
+      "commandLineArgs": "march_expenses.txt"
+    }
+  }
+}
